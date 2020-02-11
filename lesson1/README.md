@@ -17,3 +17,11 @@
 ```
 ### ARRAYS
 - please fix all bugs
+
+### HTTP
+```
+    npm run httpServer
+```
+```
+    npm run httpClient
+```
