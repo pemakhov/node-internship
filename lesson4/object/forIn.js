@@ -2,7 +2,7 @@
 const triangle = { a: 1, b: 2, c: 3 };
 
 function ColoredTriangle() {
-    this.red = 'color';
+    this.color = 'red';
 }
 
 ColoredTriangle.prototype = triangle;
